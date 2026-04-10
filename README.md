@@ -68,7 +68,7 @@ The dataset contains customer-related information such as:
 ## How to Run the Project
 
 1. Clone the repository
-git clone https://github.com/krinasuthar19/Data-Profiler---Data-Preprocessing
+git clone https://github.com/krinasuthar19/Data-Profiler---Data-Preprocessing-/tree/main
 
 2. Install required libraries
 pip install pandas matplotlib ydata-profiling
